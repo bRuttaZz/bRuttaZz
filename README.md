@@ -16,7 +16,7 @@
 ![Years Badge](https://badges.pufler.dev/years/bruttazz)
 ![Repos Badge](https://badges.pufler.dev/repos/bruttazz)
 
-<img src="https://bRuttaZz.github.io/assets/images/craps/pinned.png" width="20px"> **Got a detailed minimal site over [here](https://bRuttaZz.github.io)**
+<img src="https://bRuttaZz.github.io/assets/images/craps/pinned.png" width="20px"> **Got a detailed-minimal site over [here](https://bRuttaZz.github.io)**
 
 > **Have you got any crazy-intersiting idea that you think is crazy enough to develop together me??**
 > <br> *THEN feel free to ping me over*
