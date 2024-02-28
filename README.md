@@ -1,16 +1,11 @@
 # AGRAJ P DAS
 @bRuttaZz<br>
-<a href=https://github.com/bruttazz>
-<img src="https://bRuttaZz.github.io/assets/images/socialmedia/github.png" width=20px>
-</a><a href=https://fosstodon.org/@bRuttaZz>
-<img src="https://bRuttaZz.github.io/assets/images/socialmedia/mastodon.png" width=20px>
-</a><a href=https://www.instagram.com/bRuttaZz>
-<img src="https://bRuttaZz.github.io/assets/images/socialmedia/insta.png" width=20px>
-</a><a href=https://www.linkedin.com/in/agraj-p-das-a656a423b>
-<img src="https://bRuttaZz.github.io/assets/images/socialmedia/linkedin.png" width=20px>
-</a><a href=https://twitter.com/bruttazz_>
-<img src="https://bRuttaZz.github.io/assets/images/socialmedia/twitter.png" width=20px>
-</a>
+
+[<img src="https://bRuttaZz.github.io/assets/images/socialmedia/github.png" width=20px>](https://github.com/bruttazz)
+[<img src="https://bRuttaZz.github.io/assets/images/socialmedia/mastodon.png" width=20px>](https://fosstodon.org/@bRuttaZz)
+[<img src="https://bRuttaZz.github.io/assets/images/socialmedia/insta.png" width=20px>](https://www.instagram.com/bRuttaZz)
+[<img src="https://bRuttaZz.github.io/assets/images/socialmedia/linkedin.png" width=20px>](https://www.linkedin.com/in/agraj-p-das-a656a423b)
+[<img src="https://bRuttaZz.github.io/assets/images/socialmedia/twitter.png" width=20px>](https://twitter.com/bruttazz_)
 
 ![Updated Badge](https://badges.pufler.dev/updated/bruttazz/bRuttaZz)
 ![Years Badge](https://badges.pufler.dev/years/bruttazz)
