@@ -7,11 +7,6 @@
 [<img src="./.assets/linkedin.png" width=20px>](https://www.linkedin.com/in/agraj-p-das-a656a423b)
 [<img src="./.assets/twitter.png" width=20px>](https://twitter.com/bruttazz_)
 
-![Updated Badge](https://badges.pufler.dev/updated/bruttazz/bRuttaZz)
-![Years Badge](https://badges.pufler.dev/years/bruttazz)
-![Repos Badge](https://badges.pufler.dev/repos/bruttazz)
-
-<img src="./.assets/pinned.png" width="20px"> **Got a detailed-minimal site over [here](https://bRuttaZz.github.io)**
 
 ```bash
 if [ $(you-got any crazy-intersiting idea) && 
@@ -23,3 +18,7 @@ then
     $matrix="matrix.to/#/@bruttazz:matrix.org"
     $telegram="t.me/bruttazz57"
 fi 
+
+```
+
+<img src="./.assets/pinned.png" width="15px"> Got a detailed-minimal site over [here](https://bRuttaZz.github.io)
