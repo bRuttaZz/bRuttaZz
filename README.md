@@ -1,6 +1,6 @@
 <img src="https://avatars.githubusercontent.com/u/75801370" alt="profile pic" align="right" width=100>
 
-## AGRAJ P DAS
+<h2>AGRAJ P DAS</h2>
 
 **@bRuttaZz**<br>
 
