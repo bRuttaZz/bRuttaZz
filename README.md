@@ -15,8 +15,8 @@ AGRAJ P DAS
 
 
 
-If you have any crazy and interesting ideas that you think are crazy enough to develop together with me, feel free to ping me over [matrix](matrix.to/#/@bruttazz:matrix.org)
- / [telegram](t.me/bruttazz57) / [email](mailto:agrajpdas@gmail.com)
+If you have any crazy and interesting ideas that you think are crazy enough to develop together with me, feel free to ping me over [matrix](https://matrix.to/#/@bruttazz:matrix.org)
+ / [telegram](https://t.me/bruttazz57) / [email](mailto:agrajpdas@gmail.com)
 
 
 
