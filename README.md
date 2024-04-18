@@ -1,14 +1,17 @@
+
+<h2>
+AGRAJ P DAS
 <img src="https://avatars.githubusercontent.com/u/75801370" alt="profile pic" align="right" width=100>
 
-<h2>AGRAJ P DAS</h2>
-
-**@bRuttaZz**<br>
+<p><b>@bRuttaZz</b></p>
 
 [<img src="./.assets/github.png" width=20px>](https://github.com/bruttazz)
 [<img src="./.assets/mastodon.png" width=20px>](https://fosstodon.org/@bRuttaZz)
 [<img src="./.assets/insta.png" width=20px>](https://www.instagram.com/bRuttaZz)
 [<img src="./.assets/linkedin.png" width=20px>](https://www.linkedin.com/in/agraj-p-das-a656a423b)
 [<img src="./.assets/twitter.png" width=20px>](https://twitter.com/bruttazz_)
+
+</h2>
 
 
 
