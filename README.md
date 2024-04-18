@@ -1,5 +1,8 @@
-# AGRAJ P DAS
-@bRuttaZz<br>
+<img src="https://avatars.githubusercontent.com/u/75801370" alt="profile pic" align="right" width=100>
+
+## AGRAJ P DAS
+
+**@bRuttaZz**<br>
 
 [<img src="./.assets/github.png" width=20px>](https://github.com/bruttazz)
 [<img src="./.assets/mastodon.png" width=20px>](https://fosstodon.org/@bRuttaZz)
@@ -8,17 +11,10 @@
 [<img src="./.assets/twitter.png" width=20px>](https://twitter.com/bruttazz_)
 
 
-```bash
-if [ $(you-got any crazy-intersiting idea) && 
-    $(that you think is crazy enough to develop together me) ]
-then
-  # voila! 
-  # feel free to ping me over
-    $email="agrajpdas@gmail.com"
-    $matrix="matrix.to/#/@bruttazz:matrix.org"
-    $telegram="t.me/bruttazz57"
-fi 
 
-```
+If you have any crazy and interesting ideas that you think are crazy enough to develop together with me, feel free to ping me over [matrix](matrix.to/#/@bruttazz:matrix.org)
+ / [telegram](t.me/bruttazz57) / [email](mailto:agrajpdas@gmail.com)
 
-<img src="./.assets/pinned.png" width="15px"> Got a detailed-minimal site over [here](https://bRuttaZz.github.io)
+
+
+<img src="./.assets/pinned.png" width="15px"> [brutt-dot-site](https://bRuttaZz.github.io)
