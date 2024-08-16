@@ -1,7 +1,7 @@
 
 <h2>
 AGRAJ P DAS
-<img src="https://avatars.githubusercontent.com/u/75801370" alt="profile pic" align="right" width=100>
+<img src="https://brutt.site/favicon.ico" alt="profile pic" align="right" width=75>
 
 <p><b>@bRuttaZz</b></p>
 
