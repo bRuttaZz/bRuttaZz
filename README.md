@@ -20,4 +20,4 @@ If you have any crazy-interesting ideas that you think are crazy enough to devel
 
 
 
-> BTW, find some of my blogs @ [brutt.site](https://brutt.site)
+> BTW, find some of my blogs @ [brutt.site](https://brutt.site/blogs)
