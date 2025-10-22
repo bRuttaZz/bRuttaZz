@@ -11,3 +11,5 @@ If you have any crazy-interesting ideas that you think are just crazy enough to 
  / [Telegram](https://t.me/bruttazz57) / [Email](mailto:agrajpdas@gmail.com)
 
 > Find some of my blogs @ [brutt.site](https://brutt.site/blogs)
+
+![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruttazz&show_icons=true&layout=donut&custom_title=Most+Used+Machine+Langs&theme=transparent)
